@@ -1,29 +1,6 @@
 <div align="center">
 
-<table align="center" style="border: none;">
-  <tr>
-    <td valign="top" width="30%">
-      <img src="profile%20image.png" width="100%" style="border-radius: 8px;" alt="Nishanth S"/>
-    </td>
-    <td valign="top" width="70%">
-<pre><code>nishanth.siddarajuk@gmail.com - % ./profile.sh --live
-
-SYSTEM.INFO                                         🔴 LIVE
-===========================================================
-Subject ........ Nishanth S
-Role ........... AI & ML Engineer
-Origin ......... Bengaluru, India
-Education ...... B.E. in CSE (AI & ML) (2026)
-Status ......... Intern @ MindMatrix
-Core.Lang ...... Python, Java, C, Kotlin, SQL
-Core.Tools ..... TensorFlow, PyTorch, Docker, Git
-Grid.Portfolio . nishanths-portfolio.vercel.app
-Grid.LinkedIn .. linkedin.com/in/nishanth-s-raj
-Grid.GitHub .... @nishanths24
-===========================================================</code></pre>
-    </td>
-  </tr>
-</table>
+  <img src="terminal.svg" width="900" alt="Terminal Info" />
 
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Nishanth+S;AI+%26+ML+Engineer+%7C+Android+Developer" alt="Typing SVG" /></a>
