@@ -1,35 +1,10 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <div align="center">
+  <img src="profile%20image.png" width="180" alt="Nishanth S" style="border-radius: 50%;">
 
-```console
-nishanths24@github ~ % ./profile.sh --live
+  # Hi 👋 I'm Nishanth S
+  **AI Engineer / Machine Learning Engineer / Generative AI**
 
-SYSTEM.INFO
-=========================================================
-Subject ........ Nishanth S
-Role ........... AI & ML Engineer / Android Dev Intern
-Origin ......... Bengaluru, India
-Education ...... B.E. in CSE (AI & ML) (Graduating 2026)
-Status ......... Intern @ Mindmatrix
-Core.Lang ...... Python, Java, C, Kotlin
-Core.Tools ..... TensorFlow, PyTorch, Docker, Git
-Grid.Portfolio . nishanths-portfolio.vercel.app
-Grid.LinkedIn .. linkedin.com/in/nishanth-s-raj
-Grid.GitHub .... github.com/nishanths24
-=========================================================
-```
-
-<!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Nishanth+S;AI+%26+ML+Engineer+%7C+Android+Developer" alt="Typing SVG" /></a>
-
-<br/>
-
-**🚀 Android App Development using GenAI Intern @ Mindmatrix**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nishanths24&color=22D3EE&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=nishanths24&color=22D3EE&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <br/>
@@ -38,15 +13,14 @@ Grid.GitHub .... github.com/nishanths24
 
 ## 🧑‍💼 About Me
 
-> Aspiring AI & ML Engineer with a strong foundation in Deep Learning, Python, and GenAI. Currently working as an Android App Development Intern at Mindmatrix, integrating AI into mobile applications. Passionate about building robust machine learning models and intelligent applications.
+> Aspiring AI Engineer and Machine Learning Engineer with strong skills in Python, Machine Learning, Deep Learning, LLMs, and Generative AI. Experienced in building AI-driven applications, RAG-based systems, and production-oriented ML solutions. Passionate about solving real-world problems using AI and developing scalable intelligent applications.
 
 ```yaml
-🎓 Education    : B.E. Computer Science (AI & ML) — VTU (Graduating 2026)
-🔬 Current Role : Android App Development using GenAI Intern @ Mindmatrix
-🧠 Focus Areas  : Deep Learning · GenAI · Mobile AI · Data Science
+🎓 Education    : B.E. Computer Science & Engineering (AI & ML) — VTU (2026)
+💼 Experience   : GenAI Android App Development Intern @ MindMatrix
+🧠 Focus Areas  : Machine Learning · Deep Learning · Generative AI · LLMs · RAG · Computer Vision
 🌍 Location     : Bengaluru, India
-📫 Contact      : [Add your email here]
-🌐 Portfolio    : https://nishanths-portfolio.vercel.app/
+📫 Contact      : https://www.linkedin.com/in/nishanth-s-raj
 ```
 
 <br/>
@@ -55,22 +29,10 @@ Grid.GitHub .... github.com/nishanths24
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="100" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg" width="60" alt="Mindmatrix"/>
-  <br/><sub><b>Mindmatrix</b></sub>
-</td>
-<td>
-
-### Android App Development using GenAI - Intern
-**Mindmatrix, Bengaluru, India** · *Feb 2026 – May 2026*
+### Android App Developer Intern — Generative AI
+**MindMatrix, Bengaluru, India** · *Feb 2026 – May 2026*
 - Built and tested AI-powered Android application features using Kotlin and Android Studio.
 - Boosted app responsiveness by 20% through debugging, REST API integration, and Kotlin UI optimization.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -78,62 +40,61 @@ Grid.GitHub .... github.com/nishanths24
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [Stock Market Analysis Using AI](https://github.com/nishanths24/EquiNexa-AI)
-Engineered an AI-driven stock market prediction system in Python, improving trend-prediction accuracy by 15%. Built and evaluated machine learning models using technical indicators.
-
-`Python` `Machine Learning` `Matplotlib`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [DefendAI — Deepfake Detection](https://github.com/nishanths24/DefendAI)
+### [DefendAI — Deepfake Detection & Anti-AI Poisoning Framework](https://github.com/nishanths24/DefendAI)
 An AI-powered deepfake detection platform that analyzes uploaded images using a ResNet18 deep-learning classifier and an input integrity/anomaly detection layer.
 
 `Next.js` `FastAPI` `PyTorch` `ResNet18`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 [Namma Platform - GenAI App](https://github.com/nishanths24/Namma_Platform)
-Built a Kotlin-based Android application with Retrofit API and XML UI, delivering real-time train schedules. Integrated Kannada language support.
-
-`Kotlin` `Android Studio` `Generative AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 [RAG PDF Chatbot](https://github.com/nishanths24/RAG-PDF-Chatbot)
+### [RAG PDF Chatbot](https://github.com/nishanths24/RAG-PDF-Chatbot)
 AI-powered multi-document RAG chatbot for querying PDF files with semantic retrieval, FAISS, local embeddings, and Groq-powered responses.
 
 `Python` `LangChain` `FAISS` `Groq` `PyTorch`
 
-</td>
-</tr>
-</table>
+### [Stock Market Analysis Using AI](https://github.com/nishanths24/EquiNexa-AI)
+Engineered an AI-driven stock market prediction system in Python, improving trend-prediction accuracy by 15%. Built and evaluated machine learning models using technical indicators.
+
+`Python` `Machine Learning` `Matplotlib`
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🛠️ Skills & Technologies
+## 📂 More Projects
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,kotlin,mysql,tensorflow,pytorch,git,github,docker" alt="My Skills" />
-  </a>
-</div>
+| Project | Description | Tech |
+|---|---|---|
+| [Namma Platform - GenAI App](https://github.com/nishanths24/Namma_Platform) | Kotlin-based Android application with Retrofit API and XML UI for real-time train schedules. | `Kotlin`, `Android Studio`, `Generative AI` |
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🏆 Certifications
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, Java, C, SQL, Kotlin |
+| AI / ML | Machine Learning, Deep Learning, PyTorch, TensorFlow |
+| GenAI | LLMs, RAG, Generative AI |
+| Tools | Git, GitHub, Docker, Pandas, NumPy |
+| Mobile | Android Studio, Kotlin |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🎓 Education
+
+**B.E. in Computer Science & Engineering**<br/>
+Artificial Intelligence & Machine Learning<br/>
+Visvesvaraya Technological University (VTU)<br/>
+*2022–2026*
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Certifications
 
 - **Programming in Python** — Meta, Coursera
 - **Introduction to Artificial Intelligence (AI)** — IBM
@@ -152,3 +113,14 @@ AI-powered multi-document RAG chatbot for querying PDF files with semantic retri
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanths24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📫 Contact
+
+- **GitHub**: [https://github.com/nishanths24](https://github.com/nishanths24)
+- **LinkedIn**: [https://www.linkedin.com/in/nishanth-s-raj](https://www.linkedin.com/in/nishanth-s-raj)
+- **Portfolio**: [https://nishanths-portfolio.vercel.app/](https://nishanths-portfolio.vercel.app/)
+- **Email**: [nishanth.siddarajuk@gmail.com](mailto:nishanth.siddarajuk@gmail.com)
