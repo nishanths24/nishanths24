@@ -28,7 +28,7 @@
 🔬 Current Role : Android App Development using GenAI Intern @ Mindmatrix
 🧠 Focus Areas  : Deep Learning · GenAI · Mobile AI · Data Science
 🌍 Location     : Bengaluru, India
-📫 Contact      : [Add your email here]
+📫 Contact      : nishanth.siddarajuk@gmail.com
 🌐 Portfolio    : https://nishanths-portfolio.vercel.app/
 ```
 
