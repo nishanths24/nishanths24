@@ -6,12 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Nishanth+S;AI+%26+ML+Engineer+%7C+Android+Developer" alt="Typing SVG" /></a>
 
 <br/>
-
 <a href="https://nishanths-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-22D3EE?style=flat-square&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ## About Me
