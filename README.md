@@ -7,11 +7,9 @@
 
 <br/>
 
-
 <a href="https://nishanths-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-22D3EE?style=flat-square&logoColor=white" alt="Portfolio" /></a>
 
 </div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
